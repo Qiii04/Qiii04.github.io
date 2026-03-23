@@ -18,7 +18,7 @@ My interests include:
 <div style="display: flex; align-items: flex-start; gap: 28px; margin-bottom: 48px;">
 
   <!-- 左侧GIF/图片 -->
-  <div style="flex: 0 0 280px;">
+  <div style="flex: 0 0 220px;">
     <img src="/images/connav.gif" alt="project" style="width: 100%;">
   </div>
 
@@ -26,17 +26,17 @@ My interests include:
   <div style="flex: 1;">
     
     <!-- 标题 -->
-    <h2 style="margin: 0 0 8px 0;">
+    <h2 style="margin: 0 0 10px 0;">
       A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
     </h2>
 
     <!-- 作者 -->
-    <p style="margin: 0 0 6px 0;">
+    <p style="margin: 0 0 8px 0;">
       <strong>Qi Yin</strong>, Ziming Liu, Meida Chen, Ph.D.,3 Yang Ye, Ph.D.,4 Jing Du, Ph.D,Yangming Shi, Ph.D.
     </p>
 
     <!-- 发表信息 -->
-    <p style="margin: 0 0 8px 0; color: #666;">
+    <p style="margin: 0 0 10px 0; color: #666;">
       Under Review 
     </p>
 
