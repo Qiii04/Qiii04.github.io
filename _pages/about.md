@@ -39,7 +39,7 @@ My interests include:
     <p style="margin: 0;">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5907605" style="font-size: 12px;">Paper</a>
     </p>
-
+  </div>
 </div>
 
 <!-- 项目 2 -->
