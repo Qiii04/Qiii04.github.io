@@ -19,7 +19,7 @@ My interests include:
 
   <!-- GIF/figure -->
   <div style="flex: 0 0 200px;">
-    <img src="/images/connav.gif" alt="project" style="width: 100%;">
+    <img src="/images/trajectory_0.gif" alt="project" style="width: 100%;">
   </div>
 
   <!--  -->
