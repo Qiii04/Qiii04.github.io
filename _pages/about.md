@@ -29,15 +29,15 @@ My interests include:
     <p style="margin: 0 0 10px 0; font-size: 16px; font-weight: 600; line-height: 1.3;">
       A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
     </p>
-    <p style="margin: 0 0 6px 0; font-size: 14px;">
+    <p style="margin: 0 0 6px 0; font-size: 12px;">
       <strong>Qi Yin</strong>, Ziming Liu, Meida Chen, Yang Ye, Jing Du, Yangming Shi
     </p>
-    <p style="margin: 0 0 8px 0; font-size: 14px; color: #666;">
+    <p style="margin: 0 0 8px 0; font-size: 12px; color: #666;">
       Under Review
     </p>
     <!-- links -->
     <p style="margin: 0;">
-      <a href="#" style="font-size: 14px;">Paper</a>
+      <a href="#" style="font-size: 12px;">Paper</a>
     </p>
 
   </div>
