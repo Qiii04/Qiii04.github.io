@@ -40,6 +40,21 @@ My interests include:
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5907605" style="font-size: 12px;">Paper</a>
     </p>
 
+        <!-- title -->
+    <p style="margin: 0 0 10px 0; font-size: 16px; font-weight: 600; line-height: 1.3;">
+      A Teacher-Student Learning Approach to Improve Quadruped Robot’s Autonomous Locomotion and Obstacle Avoidance on Construction Site
+    </p>
+    <p style="margin: 0 0 6px 0; font-size: 12px;">
+      <strong>Qi Yin</strong>, Yang Ye, Meida Chen, Yangming Shi
+    </p>
+    <p style="margin: 0 0 8px 0; font-size: 12px; color: #999;">
+      Computing in Civil Engineering 2025
+    </p>
+    <!-- links -->
+    <p style="margin: 0;">
+      <a href="https://ascelibrary.org/doi/10.1061/9780784486443.063" style="font-size: 12px;">Paper</a>
+    </p>
+
   </div>
 
 </div>
