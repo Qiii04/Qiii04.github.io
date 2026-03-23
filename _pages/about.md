@@ -27,25 +27,22 @@ My interests include:
     
     <!-- 标题 -->
     <h2 style="margin: 0 0 8px 0;">
-      End-to-End Navigation of Quadruped Robots on Construction Sites via Reinforcement Learning
+      A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
     </h2>
 
     <!-- 作者 -->
     <p style="margin: 0 0 6px 0;">
-      <strong>Qi Yin</strong>, Yangming Shi
+      <strong>Qi Yin</strong>, Ziming Liu, Meida Chen, Ph.D.,3 Yang Ye, Ph.D.,4 Jing Du, Ph.D,Yangming Shi, Ph.D.
     </p>
 
     <!-- 发表信息 -->
     <p style="margin: 0 0 8px 0; color: #666;">
-      Under Review / In Preparation
+      Under Review 
     </p>
 
     <!-- links -->
     <p style="margin: 0;">
-      <a href="#">Paper</a> /
-      <a href="#">Website</a> /
-      <a href="#">Video</a> /
-      <a href="#">Code</a>
+      <a href="#">Paper</a> 
     </p>
 
   </div>
