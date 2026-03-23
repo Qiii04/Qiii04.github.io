@@ -46,7 +46,9 @@ My interests include:
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 
   <div style="flex: 0 0 200px;">
-    <img src="/images/2025-04-38 21-32-01.mp4" style="width: 100%;">
+    <video autoplay loop muted playsinline style="width: 100%;">
+      <source src="/images/2025-04-38 21-32-01.mp4" type="video/mp4">
+    </video>
   </div>
 
   <div style="flex: 1;">
