@@ -26,17 +26,17 @@ My interests include:
   <div style="flex: 1;">
     
     <!-- 标题 -->
-    <p style="margin: 0 0 14px 0;">
+    <p style="margin: 0 0 20px 0;">
       A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
     </p>
 
     <!-- 作者 -->
-    <p style="margin: 0 0 12px 0;">
+    <p style="margin: 0 0 22px 0;">
       <strong>Qi Yin</strong>, Ziming Liu, Meida Chen, Ph.D.,3 Yang Ye, Ph.D.,4 Jing Du, Ph.D,Yangming Shi, Ph.D.
     </p>
 
     <!-- 发表信息 -->
-    <p style="margin: 0 0 14px 0; color: #666;">
+    <p style="margin: 0 0 20px 0; color: #666;">
       Under Review 
     </p>
 
