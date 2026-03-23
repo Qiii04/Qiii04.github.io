@@ -26,9 +26,9 @@ My interests include:
   <div style="flex: 1;">
     
     <!-- 标题 -->
-    <h2 style="margin: 0 0 14px 0;">
+    <p style="margin: 0 0 14px 0;">
       A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
-    </h2>
+    </p>
 
     <!-- 作者 -->
     <p style="margin: 0 0 12px 0;">
