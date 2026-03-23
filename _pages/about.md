@@ -26,7 +26,7 @@ My interests include:
   <div style="flex: 1;">
     
     <!-- title -->
-    <p style="margin: 0 0 10px 0; font-size: 18px; font-weight: 600; line-height: 1.3;">
+    <p style="margin: 0 0 10px 0; font-size: 16px; font-weight: 600; line-height: 1.3;">
       A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
     </p>
     <p style="margin: 0 0 6px 0; font-size: 14px;">
