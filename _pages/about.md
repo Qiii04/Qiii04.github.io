@@ -26,13 +26,13 @@ My interests include:
   <div style="flex: 1;">
     
     <!-- 标题 -->
-    <p style="margin: 0 0 20px 0;">
+    <p style="margin: 0 0 10px 0; font-size: 18px; font-weight: 600; line-height: 1.3;">
       A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
     </p>
-
+    
     <!-- links -->
     <p style="margin: 0;">
-      <a href="#">Paper</a> 
+      <a href="#" style="font-size: 14px;">Paper</a>
     </p>
 
   </div>
