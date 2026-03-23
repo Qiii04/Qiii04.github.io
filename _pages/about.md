@@ -19,7 +19,7 @@ My interests include:
 
   <!-- 左侧GIF/图片 -->
   <div style="flex: 0 0 280px;">
-    <img src="/images/myself.jpg" alt="project" style="width: 100%;">
+    <img src="/images/connav.gif" alt="project" style="width: 100%;">
   </div>
 
   <!-- 右侧内容 -->
