@@ -23,7 +23,7 @@ repository               : "Qiii04/Qiii04.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myself.jpg"
+  avatar           : "my.png"
   name             : "Qi Yin"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Robotics at Colorado School of Mines."
