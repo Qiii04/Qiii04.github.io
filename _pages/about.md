@@ -18,7 +18,7 @@ My interests include:
 <div style="display: flex; align-items: flex-start; gap: 28px; margin-bottom: 48px;">
 
   <!-- 左侧GIF/图片 -->
-  <div style="flex: 0 0 220px;">
+  <div style="flex: 0 0 200px;">
     <img src="/images/connav.gif" alt="project" style="width: 100%;">
   </div>
 
