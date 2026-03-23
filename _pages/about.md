@@ -37,7 +37,7 @@ My interests include:
     </p>
     <!-- links -->
     <p style="margin: 0;">
-      <a href="#" style="font-size: 12px;">Paper</a>
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5907605" style="font-size: 12px;">Paper</a>
     </p>
 
   </div>
