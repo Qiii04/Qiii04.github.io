@@ -46,7 +46,7 @@ My interests include:
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;">
 
   <div style="flex: 0 0 200px;">
-    <img src="/images/locomotion.gif" alt="project" style="width: 100%;">
+    <img src="/images/locomotion_0.gif" alt="project" style="width: 100%;">
   </div>
 
   <div style="flex: 1;">
