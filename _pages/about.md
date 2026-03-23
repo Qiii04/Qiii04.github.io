@@ -64,7 +64,7 @@ My interests include:
     </p>
 
     <p style="margin: 0;">
-      <a href="https://ascelibrary.org/doi/10.1061/9780784486443.063">Paper</a>
+      <a href="https://ascelibrary.org/doi/10.1061/9780784486443.063" style="font-size: 12px;">Paper</a>
     </p>
   </div>
 
