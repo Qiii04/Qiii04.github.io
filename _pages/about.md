@@ -17,19 +17,21 @@ My interests include:
 ## Research
 <div style="display: flex; align-items: flex-start; gap: 28px; margin-bottom: 48px;">
 
-  <!-- 左侧GIF/图片 -->
+  <!-- GIF/figure -->
   <div style="flex: 0 0 200px;">
     <img src="/images/connav.gif" alt="project" style="width: 100%;">
   </div>
 
-  <!-- 右侧内容 -->
+  <!--  -->
   <div style="flex: 1;">
     
-    <!-- 标题 -->
+    <!-- title -->
     <p style="margin: 0 0 10px 0; font-size: 18px; font-weight: 600; line-height: 1.3;">
       A Navigation System to Improve Quadruped Robot’s Autonomous Path Planning and Locomotion on Outdoor Construction Site
     </p>
-    
+    <p style="margin: 0 0 6px 0; font-size: 14px;">
+      <strong>Qi Yin</strong>, Ziming Liu, Meida Chen, Yang Ye, Jing Du, Yangming Shi
+    </p>
     <!-- links -->
     <p style="margin: 0;">
       <a href="#" style="font-size: 14px;">Paper</a>
