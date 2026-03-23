@@ -32,7 +32,7 @@ My interests include:
     <p style="margin: 0 0 6px 0; font-size: 12px;">
       <strong>Qi Yin</strong>, Ziming Liu, Meida Chen, Yang Ye, Jing Du, Yangming Shi
     </p>
-    <p style="margin: 0 0 8px 0; font-size: 12px; color: #666;">
+    <p style="margin: 0 0 8px 0; font-size: 12px; color: #999;">
       Under Review
     </p>
     <!-- links -->
